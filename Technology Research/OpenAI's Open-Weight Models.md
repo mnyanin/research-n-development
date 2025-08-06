@@ -1,4 +1,4 @@
-# OpenAI's Open-Weight Models
+# GPT-OSS Research
 
 ## Overview
 
