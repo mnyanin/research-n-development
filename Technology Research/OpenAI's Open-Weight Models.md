@@ -1,7 +1,5 @@
 # GPT-OSS Research
 
-## Overview
-
 * gpt-oss series comprises of [OpenAI’s open-weight models](https://openai.com/open-models) designed for powerful reasoning, agentic tasks, and versatile developer use cases; can be fine-tuned for a variety of specialized use cases
 * a "weighted model" is a machine learning model that has been trained and saved with its weights, which are the core numerical values that define the model’s knowledge, behaviors, and responses
 
