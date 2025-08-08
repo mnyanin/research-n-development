@@ -57,7 +57,7 @@
 
 ## Sample System Architecture using GPT-OSS
 
-1. **Bioptrics Survey App**: collects user repsponses
+1. **Bioptrics Survey App**: collects user responses
 2. **Preprocessing Layer**: clean input and extract key fields
 3. **RAG Retrieval Layer:** pull relevant frameworks and search docs using embeddings
 4. **GPT‑OSS Model Server**: self-hosted on a cloud GPU instance; uses vLLM, TGI, or Transformers
