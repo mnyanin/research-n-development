@@ -3,12 +3,10 @@
 * gpt-oss series comprises of [OpenAI’s open-weight models](https://openai.com/open-models) designed for powerful reasoning, agentic tasks, and versatile developer use cases; can be fine-tuned for a variety of specialized use cases
 * a "weighted model" is a machine learning model that has been trained and saved with its weights, which are the core numerical values that define the model’s knowledge, behaviors, and responses
 
-
 ## Available Models
 
 * **gpt-oss-120b** — for production, general purpose, high reasoning use cases that fit into a single H100 GPU (117B parameters with 5.1B active parameters); a large open model designed to run in data centers and on high-end desktops and laptops.
 * **gpt-oss-20b** — for lower latency, and local or specialized use cases (21B parameters with 3.6B active parameters); a medium-sized open model that can run on most desktops and laptops.
-
 
 ## Highlights
 
@@ -21,14 +19,12 @@
 - **Agentic capabilities:** Use the models’ native capabilities for function calling, [web browsing](https://github.com/openai/gpt-oss/tree/main?tab=readme-ov-file#browser), [Python code execution](https://github.com/openai/gpt-oss/tree/main?tab=readme-ov-file#python), and Structured Outputs.
 - **Native MXFP4 quantization:** The models are trained with native MXFP4 precision for the MoE layer, making `gpt-oss-120b` run on a single H100 GPU and the `gpt-oss-20b` model run within 16GB of memory.
 
-
 ## Advantages
 
 * Ideal for smaller organizations that may lack the budget or flexibility to adopt proprietary models.
 * Both models are freely available for download (however, you still pay for the underlying Bedrock usage metered by tokens)
 * Both models support external tools to enhance their capabilities and can be used in an agentic workflow.
 * Excel at coding, scientific analysis, and mathematical reasoning, with performance comparable to leading alternatives.
-
 
 ## Potential Trade-Offs
 
@@ -59,7 +55,6 @@
 | **Scalability**            | Instantly scalable        | Needs infra planning                 |
 | **Maintenance**            | AWS handles everything    | You manage versions, updates         |
 
-
 ## Sample System Architecture using GPT-OSS
 
 1. **Bioptrics Survey App**: collects user repsponses
@@ -68,7 +63,6 @@
 4. **GPT‑OSS Model Server**: self-hosted on a cloud GPU instance; uses vLLM, TGI, or Transformers
 5. **Postprocessing Layer**: format as PDF / report and create graphs / apply formatting
 6. **Delivery Layer**: store in the org dashboard / Amazon S3 (Simple Storage Service)
-
 
 ## Technical Requirements & Model Comparison
 
