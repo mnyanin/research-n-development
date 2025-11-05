@@ -6,7 +6,7 @@
 
 ### Factor 1: Compatibility & Ease of Integration
 - **Editor.js**: integrates well conceptually (JSON-based data structure fits Meteor/MongoDB). However, setup involves more boilerplate (manual save events, plugin imports, etc.).
-- **Quill**: already familiar with how to install, initialize, and manage its lifecycle. Meteor wrappers like quilljs:quill or direct NPM imports work smoothly.
+- **Quill**: already familiar with how to install, initialize, and manage its lifecycle. Meteor wrappers like quilljs:quill or direct NPM imports.
 - **Trix**:	minimal setup, but offers less control for dynamic Meteor templates or reactive data.
 
 ### Factor 2: Rich Content & Editing Experience
