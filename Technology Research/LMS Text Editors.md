@@ -1,8 +1,8 @@
 # Text Editors for Bioptrics LMS
 ## Solutions Overview
-- **Editor.js**: a block-based editor designed for structured, modular content. Each paragraph, image, or embed is stored as a JSON block, making it ideal for apps that need to render or manipulate content programmatically (e.g., courses, quizzes). It’s lightweight, extensible via plugins, and outputs clean, structured data instead of raw HTML.
-- **Quill**: a modern WYSIWYG rich-text editor focused on usability and flexibility. It offers a familiar word-processor-style interface with formatting options, embeds, and custom “Blots” for extending functionality. It stores content in HTML or Delta JSON format, integrates easily with most JavaScript frameworks, and has a large and stable community. 
-- **Trix**: A minimalistic rich-text editor built by Basecamp, designed for simple document editing with basic formatting (bold, lists, links, images). It’s easy to install and lightweight, but not suited for complex content structures or custom blocks; it's best for simple note or comment fields.
+- **[Editor.js](https://editorjs.io/)**: a block-based editor designed for structured, modular content. Each paragraph, image, or embed is stored as a JSON block, making it ideal for apps that need to render or manipulate content programmatically (e.g., courses, quizzes). It’s lightweight, extensible via plugins, and outputs clean, structured data instead of raw HTML.
+- **[Quill](https://quilljs.com/)**: a modern WYSIWYG rich-text editor focused on usability and flexibility. It offers a familiar word-processor-style interface with formatting options, embeds, and custom “Blots” for extending functionality. It stores content in HTML or Delta JSON format, integrates easily with most JavaScript frameworks, and has a large and stable community. 
+- **[Trix](https://trix-editor.org/)**: A minimalistic rich-text editor built by Basecamp, designed for simple document editing with basic formatting (bold, lists, links, images). It’s easy to install and lightweight, but not suited for complex content structures or custom blocks; it's best for simple note or comment fields.
 
 ### Factor 1: Compatibility & Ease of Integration
 - **Editor.js**: integrates well conceptually (JSON-based data structure fits Meteor/MongoDB). However, setup involves more boilerplate (manual save events, plugin imports, etc.).
