@@ -1,5 +1,4 @@
 # Trends
-
 State of [[June 6, 2025|Vibe Coding]] according to Ted Nyman (ex GitHub CTO)
 > In the past, really bad code didn't *work* at all: died fast.
 > But vibe-coded bad code "works". And comes in giant PRs, so poorly reviewed. So it was merged.
@@ -16,7 +15,6 @@ On another note...
 * [How much energy does Google’s AI use? We did the math.](https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference/) (10 mins)
 * [CloudFlare and BrowserBase](https://substack.com/redirect/b5abb4e4-b56d-4dcb-8d02-4ab64f106b86?j=eyJ1IjoiMjVlbzlmIn0.FW8WL3Fwi5-HguK73zOMNV1rItC9pXh7ejGOMvVDUoE) are partnering to give web crawling agents unique identities. (3 mins)
 # Tools
-
 Big Guys
 * [‘Nano-banana’](https://aistudio.google.com/prompts/new_chat) aka ‘Gemini 2.5 flash’ is Google’s new native image generation and editing model, is now out to everyone on the Gemini app and API.
 * [Projects in ChatGPT](https://help.openai.com/en/articles/10169521-projects-in-chatgpt) are now available to Free users.
