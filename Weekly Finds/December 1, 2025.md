@@ -24,3 +24,4 @@
 	4. more to explore
 		- [reusable prompts and custom chat modes](https://developer.microsoft.com/blog/introducing-awesome-github-copilot-customizations-repo)
 		- [custom instructions for repositories and organizations](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions?tool=vscode)
+  - [Parcel](https://parcel.io/)
