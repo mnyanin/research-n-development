@@ -7,8 +7,8 @@
 	- infographics, diagrams, annotations and more
 - [The evolution of code review practices in the world of AI](https://packagemain.tech/p/evolution-of-code-review-practices-code-rabbit)
 	- AI tools allow for faster, more consistent reviews, so that developers can focus more on high-level design and architecture
-- [How to enhance your email newsletter w/ ChatGPT & Proton](https://www.linkedin.com/posts/dashashakov_how-is-no-one-talking-about-how-good-chatgpt-activity-7399068846441078784-oRii/)
-	- HTML base with ChatGPT and testing with Proton.io
+- [How to enhance your email newsletter w/ ChatGPT & Parcel](https://www.linkedin.com/posts/dashashakov_how-is-no-one-talking-about-how-good-chatgpt-activity-7399068846441078784-oRii/)
+	- HTML base with ChatGPT and testing with [Parcel.io](https://parcel.io/)
 # Tools 
 - [CodeRabbit](https://www.coderabbit.ai/)
 	- PR summaries and code reviews
@@ -24,4 +24,3 @@
 	4. more to explore
 		- [reusable prompts and custom chat modes](https://developer.microsoft.com/blog/introducing-awesome-github-copilot-customizations-repo)
 		- [custom instructions for repositories and organizations](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions?tool=vscode)
-  - [Parcel](https://parcel.io/)
