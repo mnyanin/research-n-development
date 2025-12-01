@@ -18,7 +18,7 @@
 	1. configure [Copilot custom instructions](https://code.visualstudio.com/docs/copilot/customization/custom-instructions)
 	2. enforce code style and consistency using linters / formatters
 		- [ESLint](https://eslint.org/)
-		- [Prettier]((https://prettier.io/docs/why-prettier)
+		- [Prettier](https://prettier.io/docs/why-prettier)
 		- [Setup](https://blog.logrocket.com/using-prettier-eslint-javascript-formatting/)
 	3. write effective [prompts](https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/) that produce quality result
 	4. more to explore
