@@ -1,6 +1,9 @@
-
 # General Practices
 
+## DONT's
+
+- Don't install random plugins/themes
+- Don't copy and paste code from un-trusted sources
 ## DO's
 
 - **User Protection & Authentication**
@@ -31,11 +34,6 @@
 	- Restrict access to your `wp-admin` directory via IP whitelisting
 	- Disable [XML-RPC](https://www.hostinger.com/tutorials/xmlrpc-wordpress) if not in use, as it's a common attack vector
 	- Configure security headers (like X-Content-Type-Options or Content-Security-Policy) in .htaccess or server config to block XSS and other threats
-
-## DONT's
-
-- Don't install random plugins/themes
-- Don't copy and paste code from un-trusted sources
 
 # WordPress Backup Practices
 

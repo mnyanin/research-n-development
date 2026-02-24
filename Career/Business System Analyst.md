@@ -1,0 +1,26 @@
+# **Information Technology Lead**
+
+1. **Led requirements discovery** for a proprietary consulting platform launch by interviewing stakeholders to define data handling and payment-processing policies; captured decisions as a traceable backlog in Jira/Confluence to strengthen governance and support release readiness.
+2. **Coordinated cross-department delivery** of an industry webinar series by aligning marketing, operations, and speakers on the registration and session delivery requirements; translated the needs into actionable workflows in MS Visio, resulting in **4.7/5 average post-webinar satisfaction**.
+3. **Reviewed and optimized customer touchpoints** across web, email, and social media channels by designing automated communication workflows via REST API integrations to standardize data capture and tracking, enabling targeted campaigns that increased click-through rate by **30%**.
+4. **Established web and email marketing KPIs** aligned with campaign objectives and implemented Google Analytics event tags and tracking rules, ensuring consistent performance measurement and updating customer data management policies for improved cross-department collaboration.
+5. **Analyzed Google Analytics performance data** for web marketing and presented the insights to the executive team by building Power BI dashboards and interactive PowerPoint decks; delivered recommendations that guided martech vendor changes and reduced marketing spend by 15%.
+6. **Led QA/UAT for a proprietary consulting platform release** as part of the Agile delivery cycle by building and executing test plans in Zephyr for onboarding and gamification systems; identified edge cases and workflow gaps that drove development fixes and improved client demo reception.
+7. **Designed and configured an internal IT ticketing system**, centralizing incident tracking, defining categorization standards, and building a searchable knowledge base that reduced resolution time by up to 50% and improved visibility into recurring system and integration issues.
+8. **Conducted a cybersecurity audit** of credential management and site backup tooling by reviewing access practices, permission levels, and recovery procedures; documented risks and vulnerabilities, informing stronger technology-use policies and reducing security incidents by **70%**.
+9. Built course completion and certificate eligibility validation checks for a learning management system by writing SQL queries to reconcile enrolments, progress, and completion records, reducing certificate issuance discrepancies and cutting support follow-ups by **~25%** since the launch.
+10. **Supported ERP adoption** by documenting current-state processes and data needs and performing a gap analysis in MS Excel, comparing 5 vendors against the AI automation and business analytics requirements; produced an adoption roadmap to better inform the executive decision.
+
+# Transition Coaching Team Leader
+
+1. **Maintained accurate, confidential 1:1 student session records** by standardizing data capture in MS Excel and SharePoint, ensuring reliable inputs for the team’s weekly discussions and enabling the launch of **3 new program initiatives** that delivered more tailored student support.
+2. **Served as the primary point of contact** between students, peer assistants, and university partners by managing student inquiries, translating them into personalized solutions, and coordinating delivery through targeted referrals and custom workshops, reaching a 4.7/5.0 satisfaction score.
+3. **Managed a team of 4** by planning post-pandemic hybrid program delivery in Asana, defining deliverables and owners, and using structured tracking to flag unrealistic or inefficient initiatives early; streamlined execution and delivered 10+ workshops on time with consistent service quality.
+4. **Consolidated and analyzed multi-source student data** (session reports, feedback surveys, and interviews) to identify behavioural trends; presented insights for team brainstorming, prompting new campus club collaborations and a **30% increase in program sign-ups** by term’s end.
+5. **Delivered digital engagement solutions** by collaborating with the marketing department to produce clear, consistent promotional web and social content and tracking engagement KPIs; expanded the student audiences and improved program visibility with ~1.2K impressions per post.
+
+#  **RELATED PROJECTS AND ACHIEVEMENTS**
+
+* **Quantitative Analyst**: Analyzed over 40,000 call and text records using custom R scripts and advanced Excel to build predictive models on post-COVID communication technology trends.
+* **Geographical Data Analyst**: Cleaned and validated 5,000+ records in Excel, geocoded addresses via Google API, and created Tableau dashboards to support research into the GTA housing market.
+* **Information Security Auditor**: Investigated system logs and configuration artifacts to identify SQL injection and data exposure vulnerabilities; designed mitigation strategies and backup procedures.
